@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+}
+
+body h1 {
+    font-size: 50px;
+    background-color: #D3D3D3;
+}
+
+#name {
+    font-size: 38px;
+    font: Arial;
+}
+
+#title {
+    font-size: 24px;
+}
+
+#links {
+    font-size: 20px;
+    margin-top: 2em;
+    text-decoration: underline;
+}
+
+#backlink {
+    margin-right: 100em;
+}
