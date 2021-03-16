@@ -7,6 +7,11 @@ body h1 {
     background-color: #D3D3D3;
 }
 
+body h2 {
+    vertical-align: top;
+    text-align: left;
+}
+
 #name {
     font-size: 38px;
     font: Arial;
